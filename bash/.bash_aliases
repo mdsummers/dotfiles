@@ -1,0 +1,5 @@
+alias ls='ls --color=auto'
+alias ga='gitk --all'
+alias gfa='git fetch --all'
+alias grep='grep --color=auto'
+alias stow='stow -v'
